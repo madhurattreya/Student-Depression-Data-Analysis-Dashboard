@@ -15,7 +15,7 @@ An interactive Tableau dashboard designed to analyze factors associated with stu
 
 ## Dashboard Preview
 
-![Student Depression Dashboard](Student_Depression_Dashboard.png)
+![Student Depression Dashboard](Student%20Depression%20Analysis.png)
 
 ## Key Metrics
 
